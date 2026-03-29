@@ -1,0 +1,10 @@
+.netlify
+node_modules
+dist
+playwright-report
+test-results
+deploy-*.zip
+.DS_Store
+PROJECT.md
+PROMPTS.md
+hairpioner-home.png
